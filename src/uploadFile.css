@@ -1,0 +1,9 @@
+.b{
+    border-radius: 10px;
+    
+}
+.b:hover{
+    background-color: #3b3f88;
+    color: white;
+    cursor: pointer;
+}
